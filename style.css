@@ -119,11 +119,11 @@ nav li,
   overflow: hidden;
   position: relative;
 }
-nav a,
+nav li a,
 .options li {
   padding: 1.5rem;
 }
-nav a {
+nav li a {
   display: block;
 }
 nav li::before,
